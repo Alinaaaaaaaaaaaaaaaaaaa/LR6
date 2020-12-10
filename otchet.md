@@ -18,7 +18,9 @@
 
 Выполнить слияние в ветку master, разрешив конфликт, удалить побочную ветку после успешного слияния
 ![k5](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka5_9.jpg)
-
+![k6](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka6_9.jpg)
+![k7](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka7_9.jpg)
+![k8](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka8_9.jpg)
 Сделать изменения (добавил файл) и зафиксировать их, оставляя комментарии, несколько раз 
 
 Сделать «хард» откат коммита
