@@ -32,7 +32,8 @@
 
 ![k11](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka11_13.jpg)
 Сделать скриншоты выполнения программы и сохранить их
-![k12](https://vk.com/im?peers=49449465_256487695_269758500_173560284_467316619&sel=256728659&z=photo269758500_457246254%2Fmail955580)
+
+![k12](https://sun9-18.userapi.com/impg/dRiMjXP3wNmoSlNfL314uvAPUOkl15hkGbwz7w/42U0cNOXXNY.jpg?size=596x582&quality=96&proxy=1&sign=f333c1f4f796cf1cddfc26bc14d0829b&type=album)
 Получить историю операций в форматированном виде
 
 ## Вывод:
