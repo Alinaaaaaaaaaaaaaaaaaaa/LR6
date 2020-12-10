@@ -27,6 +27,9 @@
 Сделать «хард» откат коммита
 
 ![k10](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka10_12.jpg)
+
+Создать ветку для отчета
+![k11](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka11_13.jpg)
 Сделать скриншоты выполнения программы и сохранить их
 
 Получить историю операций в форматированном виде
