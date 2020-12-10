@@ -5,7 +5,7 @@
 удаленным репозиторием. 
 ## Порядок выполнения работы:
 Создать аккаунт на сайте GitHub
-![k1](https://github.com/ReshetnikovDmitrii4918/LR6/tree/otchet/Kartinki/Kartinka1.jpg)
+![k1](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka1.jpg)
 После установки настроить клиент git, введя имя пользователя (Группа, Фамилия И.О.) и email
 
 Получить историю операций для каждой из веток
