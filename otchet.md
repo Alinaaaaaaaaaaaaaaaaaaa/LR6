@@ -13,6 +13,7 @@
 ![k3](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka3_7.jpg)
 
 Просмотреть последние изменения
+
 ![k4](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka4_8.jpg)
 
 Выполнить слияние в ветку master, разрешив конфликт, удалить побочную ветку после успешного слияния
