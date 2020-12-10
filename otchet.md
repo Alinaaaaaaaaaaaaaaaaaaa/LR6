@@ -21,8 +21,9 @@
 ![k6](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka6_9.jpg)
 ![k7](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka7_9.jpg)
 ![k8](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka8_9.jpg)
-Сделать изменения (добавил файл) и зафиксировать их, оставляя комментарии, несколько раз 
 
+Сделать изменения (добавил файл) и зафиксировать их, оставляя комментарии, несколько раз 
+![k9](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka9_11.jpg)
 Сделать «хард» откат коммита
 
 Сделать скриншоты выполнения программы и сохранить их
