@@ -7,7 +7,7 @@
 Создать аккаунт на сайте GitHub
 ![k1](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka1.jpg)
 После установки настроить клиент git, введя имя пользователя (Группа, Фамилия И.О.) и email
-
+![k2](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka2.jpg)
 Получить историю операций для каждой из веток
 
 Просмотреть последние изменения
