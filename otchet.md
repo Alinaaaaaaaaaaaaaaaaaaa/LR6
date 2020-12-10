@@ -25,7 +25,7 @@
 Сделать изменения (добавил файл) и зафиксировать их, оставляя комментарии, несколько раз 
 ![k9](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka9_11.jpg)
 Сделать «хард» откат коммита
-1[k10](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka10_12.jpg)
+![k10](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka10_12.jpg)
 Сделать скриншоты выполнения программы и сохранить их
 
 Получить историю операций в форматированном виде
