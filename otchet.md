@@ -8,12 +8,16 @@
 ![k1](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka1.jpg)
 После установки настроить клиент git, введя имя пользователя (Группа, Фамилия И.О.) и email
 ![k2](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka2.jpg)
+
 Получить историю операций для каждой из веток
 ![k3](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka3_7.jpg)
+
 Просмотреть последние изменения
 ![k4](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka4_8.jpg)
+
 Выполнить слияние в ветку master, разрешив конфликт, удалить побочную ветку после успешного слияния
 ![k5](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka5_9.jpg)
+
 Сделать изменения (добавил файл) и зафиксировать их, оставляя комментарии, несколько раз 
 
 Сделать «хард» откат коммита
