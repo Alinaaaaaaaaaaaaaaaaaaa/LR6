@@ -5,40 +5,44 @@
 удаленным репозиторием. 
 ## Порядок выполнения работы:
 Создать аккаунт на сайте GitHub
-![k1](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka1.jpg)
+![k1]()
 После установки настроить клиент git, введя имя пользователя (Группа, Фамилия И.О.) и email
-![k2](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka2.jpg)
+![k2]()
+
+Клонировать удалённый репозиторий на компьютер, добавить файл через интерфейс GitHub. Подтянуть изменения в
+локальный репозиторий. 
+![k5_6]()
 
 Получить историю операций для каждой из веток
-![k3](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka3_7.jpg)
+![k7_1]()
+![k7_2]()
 
 Просмотреть последние изменения
-
-![k4](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka4_8.jpg)
+![k8]()
 
 Выполнить слияние в ветку master, разрешив конфликт, удалить побочную ветку после успешного слияния
-![k5](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka5_9.jpg)
-![k6](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka6_9.jpg)
-![k7](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka7_9.jpg)
-![k8](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka8_9.jpg)
+![k9_1]()
+![merge]()
+![merge2]()
 
 Сделать изменения (добавил файл) и зафиксировать их, оставляя комментарии, несколько раз 
-![k9](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka9_11.jpg)
+![10]()
+
 Сделать «хард» откат коммита
+![12]()
 
-![k10](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka10_12.jpg)
+Создать ветку для отчета,добавить файл отчета и написать отчет оставляяк оментарии
 
-Создать ветку для отчета
+![12]()
 
-![k11](https://github.com/ReshetnikovDmitrii4918/LR6/blob/otchet/Kartinki/Kartinka11_13.jpg)
-
-Сделать скриншоты выполнения программы и сохранить их
-
-![k12](https://sun9-18.userapi.com/impg/dRiMjXP3wNmoSlNfL314uvAPUOkl15hkGbwz7w/42U0cNOXXNY.jpg?size=596x582&quality=96&proxy=1&sign=f333c1f4f796cf1cddfc26bc14d0829b&type=album)
 
 Получить историю операций в форматированном виде
-![k13](https://sun9-75.userapi.com/impg/Smj_FDA4RcLAmCyKqqS6rcFCAjJ8s2urlKyuNQ/D6sZ5f5v2gQ.jpg?size=1269x216&quality=96&proxy=1&sign=5454d5cddb8af05e2b20ffadb73ded2f&type=album)
+![14]()
+
+Добавлены скриншоты в ветку
+![15]()
+
 
 ## Вывод:
-Я изучил базовые возможности системы, управления версиями, опыт работы с Git Api, опыт работы с локальным и
+Я изучила базовые возможности системы, получила опыт работы с Git Api, опыт работы с локальным и
 удаленным репозиторием.
