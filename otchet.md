@@ -5,7 +5,7 @@
 удаленным репозиторием. 
 ## Порядок выполнения работы:
 Создать аккаунт на сайте GitHub
-![k1]()
+![k1](https://github.com/Alinaaaaaaaaaaaaaaaaaaa/LR6/blob/otchet/Kartinki/Kartinka1.jpg)
 После установки настроить клиент git, введя имя пользователя (Группа, Фамилия И.О.) и email
 ![k2]()
 
