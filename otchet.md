@@ -18,6 +18,7 @@
 ![k5_6](https://github.com/Alinaaaaaaaaaaaaaaaaaaa/LR6/blob/otchet/img/5_6.PNG)
 
 Получить историю операций для каждой из веток
+
 ![k7_1](https://github.com/Alinaaaaaaaaaaaaaaaaaaa/LR6/blob/otchet/img/7_1.PNG)
 ![k7_2](https://github.com/Alinaaaaaaaaaaaaaaaaaaa/LR6/blob/otchet/img/7_2.PNG)
 
