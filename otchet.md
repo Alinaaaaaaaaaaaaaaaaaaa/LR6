@@ -6,7 +6,7 @@
 ## Порядок выполнения работы:
 Создать аккаунт на сайте GitHub
 
-![k1](https://github.com/Alinaaaaaaaaaaaaaaaaaaa/LR6/blob/otchet/Kartinki/Kartinka1.jpg)
+![k1](https://github.com/Alinaaaaaaaaaaaaaaaaaaa/LR6/blob/otchet/img/1.PNG)
 
 После установки настроить клиент git, введя имя пользователя (Группа, Фамилия И.О.) и email
 
